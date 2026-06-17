@@ -1,6 +1,10 @@
 ThBank - Wallet Management System 💰
 O ThBank é uma aplicação Full-Stack desenvolvida para a gestão de finanças pessoais. O sistema permite a visualização consolidada de saldos, monitorização de limite de cartão de crédito e histórico detalhado de transações financeiras.
 
+![Dashboard do ThBank](images/Dashboard.png)
+
+O ThBank é uma aplicação Full-Stack desenvolvida para a gestão de finanças pessoais.
+
 🚀 Tecnologias Utilizadas
 Backend
 Java 17 com Spring Boot 3
